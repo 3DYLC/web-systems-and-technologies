@@ -670,8 +670,8 @@ const IT_3101 = [
     name: "Baluyot, Elvin Marco Clyde P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://3dylc.github.io/elvin-clyde/",
+        code: "https://github.com/3DYLC/elvin-clyde.git",
       },
     },
   },
